@@ -13,6 +13,19 @@
 ## Made For
 > Cracking MD5 hashes high speed
 
+## Usage/Example
+```
+ ##############################################################################
+ # Charon MD5 Hash Cracker                                                    #
+ #                                                                            #
+ # Usage: python chMd5Cracker.py <setChar> <minChar> <maxChar> <hashMD5>      #
+ # Character options: a - small letters # a,b,c                               #
+ #                    A - big letters   # A,B,C                               #
+ #                    n - numbers       # 1,2,3                               #
+ #                    s - symbols       # !,#,@                               #
+ # Example: python chMd5Cracker.py aAns 1 4 9bd4f3afae4f32050d2b0e467c9fb8ef  #
+ ##############################################################################
+```
 
 ## 💻 Supported Operating Systems
 - [X] Ubuntu/Debian
@@ -28,7 +41,7 @@
 * Very High Speed
 * Advanced Error Handling
 
-## How it Works?
+## 📝️ How it Works?
 The `Charon MD5 Hash Cracker` is a <u>brute force</u> tool designed to crack MD5 hashes by systematically generating potential plaintexts and comparing their MD5 hash to the target hash. Here’s a breakdown of how the tool works:
 
 1. Input Parameters:
@@ -61,4 +74,16 @@ The `Charon MD5 Hash Cracker` is a <u>brute force</u> tool designed to crack MD5
     * The tool provides real-time updates on the progress of the cracking attempt, showing the current string being tested and its corresponding MD5 hash.
 
 This process continues until either the correct password is found or all possible combinations have been exhausted.
+
+
+## ⚠️ Legal disclaimer ⚠️
+> Usage of `Charon MD5 Hash Cracker` for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+## ❤️ Donation 
+> bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+
+## ☠️ Reporting Issues
+
+If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120ni@Gmail.com**
+
 
