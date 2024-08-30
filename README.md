@@ -11,7 +11,7 @@
 > AmirHossein Ghanami (Ch4120N) - Ch4120ni@Gmail.com
 
 ## Made For
-> Cracking MD5 hashes high speed
+> This script is designed for ethical hackers and security professionals to perform brute force attacks on MD5 hashes, helping them recover plaintext passwords during penetration testing and security assessments.
 
 ## 📑 Usage/Example
 ```
