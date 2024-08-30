@@ -13,7 +13,7 @@
 ## Made For
 > Cracking MD5 hashes high speed
 
-## Usage/Example
+## 📑 Usage/Example
 ```
  ##############################################################################
  # Charon MD5 Hash Cracker                                                    #
