@@ -75,6 +75,8 @@ The `Charon MD5 Hash Cracker` is a <u>brute force</u> tool designed to crack MD5
 
 This process continues until either the correct password is found or all possible combinations have been exhausted.
 
+## TO DO
+1. Creating Graphical User Interface Mode `chMd5Cracker-gui`
 
 ## ⚠️ Legal disclaimer ⚠️
 > Usage of `Charon MD5 Hash Cracker` for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
